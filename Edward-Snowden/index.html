@@ -24,14 +24,15 @@
   
   <meta name="keywords" content="" />
 
-  <link rel="canonical" href="http://hugosereno.eu/Edward-Snowden/">
-  <link rel="alternate" type="application/rss+xml" title="Những bài viết hay" href="http://hugosereno.eu/feed.xml" />
+  <link rel="canonical" href="http://thichdoc.xyz/Edward-Snowden/">
+  <link rel="alternate" type="application/rss+xml" title="Những bài viết hay" href="http://thichdoc.xyz/feed.xml" />
   <span itemprop='author'><meta name="author" content="Duy"><span itemprop='author'></span>
 
-  <link href="/favicon.png" rel="icon">
+  <link href="/images/favicon.ico" rel="icon">
   <link rel="stylesheet" href="//brick.a.ssl.fastly.net/PT+Serif:400,400i,700,700i:f">
   <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Source+Code+Pro:400,600:f">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous"> -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/main.css">
 
   <script type="text/javascript">
@@ -66,6 +67,31 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </head>
 
   <body>
+    <!-- <div class="super-search" id="js-super-search">
+  <a href="javascript:void(0)" onclick="superSearch.toggle()" class="btn-floating btn-large waves-effect waves-light #80cbc4" style="position: absolute; display: inline-block; right: 17px; top: 17px;"><i class="material-icons">close</i></a>
+  <input type="text" placeholder="Tìm theo tên tác giả (vd: 'nhactrinh') hoặc tên bài hát (tiếng Việt có dấu)" class="super-search__input" id="js-super-search__input">
+  <ul class="super-search__results" id="js-super-search__results"></ul>
+</div> -->
+
+<!-- <div id="js-super-search">
+  <input type="text" placeholder="Tìm..." id="js-super-search__input">
+  <ul class="super-search__results" id="js-super-search__results"></ul>
+</div> -->
+<!--
+       <div id="js-super-search" style="position: absolute; top: 10px; right: 10px;">
+           <form action="" class="search-form">
+               <div class="form-group has-feedback">
+               <input type="text" class="form-control" name="search" id="js-super-search__input" placeholder="Tìm...">
+                 <span class="glyphicon glyphicon-search form-control-feedback"></span>
+             </div>
+            <div class="row">
+            <div class="col-md-8 offset-md-2">
+             <ul class="super-search__results" id="js-super-search__results"></ul>
+            </div>
+            </div>
+            </form>
+       </div> -->
+
     <div class="post">
   <div class="container main">
     <div class="row">
@@ -118,6 +144,7 @@ Chiếc MacBook Air mà nhà báo James cho là “sạch”, nhận được m�
 
           <center><a href="/">Trang chủ</a></center>
         </article>
+        
 	     </div>
      </div>
   </div>
@@ -136,16 +163,26 @@ Chiếc MacBook Air mà nhà báo James cho là “sạch”, nhận được m�
       </div>
       <div class="col-sm-4">
         <h2>Kêu gọi ủng hộ</h2>
-          <p>Vì đây là trang web phi lợi nhuận và dành cho mọi người, nên sự tài trợ của các bạn sẽ giúp trang web luôn miễn phí và không có quảng cáo phiền phức.</p>
+          <p>Vì đây là trang web phi lợi nhuận và dành cho mọi người, nên <a href="mailto:binhbet+donate@gmail.com?subject='Donate for thichdoc'">sự tài trợ</a> của bạn sẽ giúp trang web luôn miễn phí và không có quảng cáo phiền phức.</p>
       </div>
     </div>
     
     <div class="row copyright">
-      <center>© feel free to read | Based on Papyrus theme | Jekyll based.</center>
+      <center>© feel free to read | Based on Papyrus theme (Jekyll based)</center>
     </div>
     
   </div>
 </footer>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/super-search.js"></script>
+<script>
+  superSearch({
+      searchFile: '/feed.xml',
+      searchSelector: '#js-super-search', // CSS Selector for search container element.
+      inputSelector: '#js-super-search__input', // CSS selector for <input>
+      resultsSelector: '#js-super-search__results' // CSS selector for results container
+  });
+</script>
 
   </body>
 </html>
