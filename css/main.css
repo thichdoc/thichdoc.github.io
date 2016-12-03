@@ -160,7 +160,13 @@ table {
 .image {
   margin: 0 auto;
   display: block;
-  max-width: 80%; }
+  max-width: 80%;
+  -webkit-filter: drop-shadow(3px 3px 3px #222);
+  filter: drop-shadow(3px 3px 3px #222); }
+
+.chuthich {
+  text-align: center;
+  font-style: italic; }
 
 .search-form .form-group {
   float: right !important;
