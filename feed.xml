@@ -3,11 +3,32 @@
   <channel>
     <title>Những bài viết hay</title>
     <description>Tổng hợp những bài viết, phân tích, bình luận hay trên mạng, đã được đọc, chọn lọc và biên tập.</description>
-    <link>http://thichdoc.xyz/</link>
-    <atom:link href="http://thichdoc.xyz/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 03 Dec 2016 22:45:37 +0700</pubDate>
-    <lastBuildDate>Sat, 03 Dec 2016 22:45:37 +0700</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 04 Dec 2016 23:00:06 +0700</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 23:00:06 +0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Well - Curate issue 4 - (tiếng Anh)</title>
+        <description>&lt;p&gt;&lt;a class=&quot;rm-mag-embed&quot; href=&quot;http://well.curatemag.co/&quot; data-uri=&quot;537087&quot; data-width=&quot;responsive&quot; data-domain=&quot;http://well.curatemag.co&quot; target=&quot;_blank&quot;&gt;http://well.curatemag.co/&lt;/a&gt;
+&lt;script async=&quot;&quot; src=&quot;https://readymag.com/specials/assets/embed_init.js&quot; id=&quot;readymag-embed-init&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <author>Nhiều tác giả</author>
+        <pubDate>Sun, 04 Dec 2016 00:00:00 +0700</pubDate>
+        <link>/culture/well</link>
+        <guid isPermaLink="true">/culture/well</guid>
+        
+        <category>well</category>
+        
+        <category>culture</category>
+        
+        <category>in english</category>
+        
+        
+        <category>Culture</category>
+        
+      </item>
     
       <item>
         <title>Thịt ngon nhờ một năm... mốc meo</title>
@@ -94,9 +115,10 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Bởi vậy hiện nay thế giới bắt đầu cho rằng thịt heo muối của Tây Ban Nha tuyệt hơn của Ý. Dù điều này đúng hay sai đi chăng nữa, sản xuất thật thà như anh Tây Ban Nha rốt cuộc lại có lợi.&lt;/p&gt;
 </description>
+        <author>Pha Lê</author>
         <pubDate>Tue, 29 Nov 2016 00:00:00 +0700</pubDate>
-        <link>http://thichdoc.xyz/cusinary/thit-ngon-nho-moc-meo</link>
-        <guid isPermaLink="true">http://thichdoc.xyz/cusinary/thit-ngon-nho-moc-meo</guid>
+        <link>/cusinary/thit-ngon-nho-moc-meo</link>
+        <guid isPermaLink="true">/cusinary/thit-ngon-nho-moc-meo</guid>
         
         <category>ẩm thực</category>
         
@@ -169,9 +191,10 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Nghe thật giống một chuyện kể trong &lt;em&gt;Zorba, con người hoan lạc!&lt;/em&gt;&lt;/p&gt;
 </description>
+        <author>Nguyên Hưng</author>
         <pubDate>Mon, 28 Nov 2016 00:00:00 +0700</pubDate>
-        <link>http://thichdoc.xyz/cusinary/van-de-van-hoa-tu-chiec-banh</link>
-        <guid isPermaLink="true">http://thichdoc.xyz/cusinary/van-de-van-hoa-tu-chiec-banh</guid>
+        <link>/cusinary/van-de-van-hoa-tu-chiec-banh</link>
+        <guid isPermaLink="true">/cusinary/van-de-van-hoa-tu-chiec-banh</guid>
         
         <category>ẩm thực</category>
         
@@ -280,9 +303,10 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 Ông nói: “Hãy thử tưởng tượng vài năm tới, những cơ quan tình báo đối đầu nhau ở Mỹ, Trung Quốc cùng giải quyết xung đột về chuyện ai đúng, ai sai, ai diễn hay, ai diễn dở về những tình huống cụ thể bằng cách nói cho công chúng biết sự thật. Đây sẽ là sự tiến bộ tuyệt vời nhất mà tôi có thể nghĩ tới”.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
+        <author>Hạnh Nguyên</author>
         <pubDate>Wed, 09 Nov 2016 00:00:00 +0700</pubDate>
-        <link>http://thichdoc.xyz/person/nguoi-hung-hay-cong-cu</link>
-        <guid isPermaLink="true">http://thichdoc.xyz/person/nguoi-hung-hay-cong-cu</guid>
+        <link>/person/nguoi-hung-hay-cong-cu</link>
+        <guid isPermaLink="true">/person/nguoi-hung-hay-cong-cu</guid>
         
         <category>Assange</category>
         
@@ -343,9 +367,10 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Tạo hóa ban cho toàn nhân loại tứ khoái, nhưng chỉ ban cho một thiểu số người ngũ khoái mà thôi. Đấy là cái khoái thứ năm, khoái cảm đọc sách. Chỉ rất ít người có khả năng mê sách, rất ít người có khả năng thu nhận được nhiều điều từ sách, vận dụng được từ sách. Không được trời cho cái khoái thứ năm, đấy là thiệt thòi, là đáng tiếc cho con người chứ đâu phải là đáng trách.&lt;/p&gt;
 </description>
+        <author>Hồ Anh Thái</author>
         <pubDate>Mon, 17 Oct 2016 00:00:00 +0700</pubDate>
-        <link>http://thichdoc.xyz/literature/ham-doc-chi-la-huyen-thoai</link>
-        <guid isPermaLink="true">http://thichdoc.xyz/literature/ham-doc-chi-la-huyen-thoai</guid>
+        <link>/literature/ham-doc-chi-la-huyen-thoai</link>
+        <guid isPermaLink="true">/literature/ham-doc-chi-la-huyen-thoai</guid>
         
         <category>văn học</category>
         
@@ -443,9 +468,10 @@ tưới đẫm những luống cày của chúng ta!”.
 Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
+        <author>Xuân Ba</author>
         <pubDate>Wed, 17 Aug 2016 00:00:00 +0700</pubDate>
-        <link>http://thichdoc.xyz/music/nhung-khuc-buon-cua-tac-gia-tien-quan-ca</link>
-        <guid isPermaLink="true">http://thichdoc.xyz/music/nhung-khuc-buon-cua-tac-gia-tien-quan-ca</guid>
+        <link>/music/nhung-khuc-buon-cua-tac-gia-tien-quan-ca</link>
+        <guid isPermaLink="true">/music/nhung-khuc-buon-cua-tac-gia-tien-quan-ca</guid>
         
         <category>Quốc Ca</category>
         
@@ -484,9 +510,10 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;Vài hôm trước, cô giúp việc nhắc: “Sao khoai lang bố con mua không ngon, không vàng rực bên trong như của con mua?”. Cô ơi, cái củ khoai lang mật đó có mùa từ tháng 11 đến tháng 4, giờ hết rồi, chờ sang năm sau đi. Sang năm, khi đem khoai lang mật về, tôi biết rằng tôi sẽ lại cảm động với món quà mỗi năm thiên nhiên cho mình một lần này.&lt;/p&gt;
 </description>
+        <author>Pha Lê</author>
         <pubDate>Thu, 30 Jun 2016 00:00:00 +0700</pubDate>
-        <link>http://thichdoc.xyz/cusinary/mua-nao-thuc-nay</link>
-        <guid isPermaLink="true">http://thichdoc.xyz/cusinary/mua-nao-thuc-nay</guid>
+        <link>/cusinary/mua-nao-thuc-nay</link>
+        <guid isPermaLink="true">/cusinary/mua-nao-thuc-nay</guid>
         
         <category>ẩm thực</category>
         
@@ -494,6 +521,67 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
         
         
         <category>cusinary</category>
+        
+      </item>
+    
+      <item>
+        <title>Hunt - Curate issue 3 - (tiếng Anh)</title>
+        <description>&lt;p&gt;&lt;a class=&quot;rm-mag-embed&quot; href=&quot;http://hunt.curatemag.co/&quot; data-uri=&quot;467972&quot; data-width=&quot;responsive&quot; data-domain=&quot;http://hunt.curatemag.co&quot; target=&quot;_blank&quot;&gt;http://hunt.curatemag.co/&lt;/a&gt;
+&lt;script async=&quot;&quot; src=&quot;https://readymag.com/specials/assets/embed_init.js&quot; id=&quot;readymag-embed-init&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <author>Nhiều tác giả</author>
+        <pubDate>Tue, 01 Mar 2016 00:00:00 +0700</pubDate>
+        <link>/culture/hunt</link>
+        <guid isPermaLink="true">/culture/hunt</guid>
+        
+        <category>hunt</category>
+        
+        <category>culture</category>
+        
+        <category>in english</category>
+        
+        
+        <category>Culture</category>
+        
+      </item>
+    
+      <item>
+        <title>Culture - Curate issue 2 - (tiếng Anh)</title>
+        <description>&lt;p&gt;&lt;a class=&quot;rm-mag-embed&quot; href=&quot;http://culture.curatemag.co/&quot; data-uri=&quot;402234&quot; data-width=&quot;responsive&quot; data-domain=&quot;http://culture.curatemag.co&quot; target=&quot;_blank&quot;&gt;http://culture.curatemag.co/&lt;/a&gt;
+&lt;script async=&quot;&quot; src=&quot;https://readymag.com/specials/assets/embed_init.js&quot; id=&quot;readymag-embed-init&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <author>Nhiều tác giả</author>
+        <pubDate>Sun, 01 Nov 2015 00:00:00 +0700</pubDate>
+        <link>/culture/culture</link>
+        <guid isPermaLink="true">/culture/culture</guid>
+        
+        <category>culture</category>
+        
+        <category>in english</category>
+        
+        
+        <category>Culture</category>
+        
+      </item>
+    
+      <item>
+        <title>Comeback - Curate issue 1 - (tiếng Anh)</title>
+        <description>&lt;p&gt;&lt;a class=&quot;rm-mag-embed&quot; href=&quot;http://comebacks.curatemag.co/&quot; data-uri=&quot;280669&quot; data-width=&quot;responsive&quot; data-domain=&quot;http://comebacks.curatemag.co&quot; target=&quot;_blank&quot;&gt;http://comebacks.curatemag.co/&lt;/a&gt;
+&lt;script async=&quot;&quot; src=&quot;https://readymag.com/specials/assets/embed_init.js&quot; id=&quot;readymag-embed-init&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <author>Nhiều tác giả</author>
+        <pubDate>Wed, 01 Jul 2015 00:00:00 +0700</pubDate>
+        <link>/culture/come-back</link>
+        <guid isPermaLink="true">/culture/come-back</guid>
+        
+        <category>culture</category>
+        
+        <category>comebacks</category>
+        
+        <category>in english</category>
+        
+        
+        <category>Culture</category>
         
       </item>
     
@@ -575,9 +663,10 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;“Tôi đã xem nó rất lâu nhưng như thể mới xem nó hôm qua vậy”, Maria chia sẻ.&lt;/p&gt;
 </description>
+        <author>Bùi Lê Duy</author>
         <pubDate>Thu, 23 Oct 2014 00:00:00 +0700</pubDate>
-        <link>http://thichdoc.xyz/online/kiem-duyet-noi-dung</link>
-        <guid isPermaLink="true">http://thichdoc.xyz/online/kiem-duyet-noi-dung</guid>
+        <link>/online/kiem-duyet-noi-dung</link>
+        <guid isPermaLink="true">/online/kiem-duyet-noi-dung</guid>
         
         <category>kiểm duyệt nội dung</category>
         
@@ -1290,9 +1379,10 @@ xác chết hăng nồng mùi tinh khí… &lt;sup id=&quot;fnref:62&quot;&gt;&l
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
+        <author>Hoàng Ngọc Tuấn</author>
         <pubDate>Fri, 28 May 1999 00:00:00 +0700</pubDate>
-        <link>http://thichdoc.xyz/literature/duc-tinh-trong-van-chuong-va-van-de-dao-duc</link>
-        <guid isPermaLink="true">http://thichdoc.xyz/literature/duc-tinh-trong-van-chuong-va-van-de-dao-duc</guid>
+        <link>/literature/duc-tinh-trong-van-chuong-va-van-de-dao-duc</link>
+        <guid isPermaLink="true">/literature/duc-tinh-trong-van-chuong-va-van-de-dao-duc</guid>
         
         <category>tư liệu</category>
         

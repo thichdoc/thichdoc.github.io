@@ -10,8 +10,8 @@
   <meta name="description" content="Tổng hợp những bài viết, phân tích, bình luận hay trên mạng, đã được đọc, chọn lọc và biên tập." />
   
   <meta name="keywords" content="" />
-  <link rel="canonical" href="http://thichdoc.xyz/">
-  <link rel="alternate" type="application/rss+xml" title="Những bài viết hay" href="http://thichdoc.xyz/feed.xml" />
+  <link rel="canonical" href="/">
+  <link rel="alternate" type="application/rss+xml" title="Những bài viết hay" href="/feed.xml" />
   <span itemprop='author'><meta name="author" content="Duy"><span itemprop='author'></span>
   <link href="/favicon.ico" rel="icon">
   <link rel="stylesheet" href="//brick.a.ssl.fastly.net/PT+Serif:400,400i,700,700i:f">
@@ -51,30 +51,17 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </head>
 
   <body>
-    <!-- <div class="super-search" id="js-super-search">
-  <a href="javascript:void(0)" onclick="superSearch.toggle()" class="btn-floating btn-large waves-effect waves-light #80cbc4" style="position: absolute; display: inline-block; right: 17px; top: 17px;"><i class="material-icons">close</i></a>
-  <input type="text" placeholder="Tìm theo tên tác giả (vd: 'nhactrinh') hoặc tên bài hát (tiếng Việt có dấu)" class="super-search__input" id="js-super-search__input">
-  <ul class="super-search__results" id="js-super-search__results"></ul>
-</div> -->
+    
 
-<!-- <div id="js-super-search">
-  <input type="text" placeholder="Tìm..." id="js-super-search__input">
+  <div class="btn-search">
+    <a href="javascript:void(0)" onclick="toggleSearch()" class="big-ornament" style="z-index: inherit;"><svg viewBox="0 0 512 512"><path d="M280.978 320.447l107.668 75.39c10.867 7.609 25.841 4.974 33.449-5.891 7.606-10.863 4.971-25.831-5.905-33.446l-105.456-73.841c8.658-16.94 13.542-36.132 13.542-56.465 0-68.59-55.578-124.194-124.138-124.194-68.559 0-124.138 55.603-124.138 124.194 0 68.59 55.578 124.194 124.138 124.194 30.877 0 59.12-11.278 80.84-29.94zm-80.84-18.081c42.05 0 76.138-34.103 76.138-76.172 0-42.069-34.088-76.172-76.138-76.172-42.05 0-76.138 34.103-76.138 76.172 0 42.069 34.088 76.172 76.138 76.172z"/></svg>
+    </a>
+  </div>
+
+<div class="super-search" id="js-super-search">
+  <input type="text" placeholder="Tìm..." class="super-search__input" id="js-super-search__input">
   <ul class="super-search__results" id="js-super-search__results"></ul>
-</div> -->
-<!--
-       <div id="js-super-search" style="position: absolute; top: 10px; right: 10px;">
-           <form action="" class="search-form">
-               <div class="form-group has-feedback">
-               <input type="text" class="form-control" name="search" id="js-super-search__input" placeholder="Tìm...">
-                 <span class="glyphicon glyphicon-search form-control-feedback"></span>
-             </div>
-            <div class="row">
-            <div class="col-md-8 offset-md-2">
-             <ul class="super-search__results" id="js-super-search__results"></ul>
-            </div>
-            </div>
-            </form>
-       </div> -->
+</div>
 
     <div class="container main">
   <div class="row">
@@ -121,11 +108,35 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
       </center>
     </header>
   </div>
+
+  <!-- <span class="small-ornament">
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  	 width="512px" height="512px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+  <g>
+  	<polygon points="448,288 256,64 64,288 112,288 112,448 208,448 208,320 304,320 304,448 400,448 400,288 	"/>
+  </g>
+  </svg>
+</span> -->
+
+
   <div class="row">
     <div class="col-md-2"></div>
     <div class="col-md-8 offset-md-2">
       
+
       
+          <h3>Culture</h3>
+          <p> 
+                <a href=""></a>
+              
+                <a href="/culture/well">Well - Curate issue 4 - (tiếng Anh)</a>,&nbsp;&nbsp;
+            
+                <a href="/culture/hunt">Hunt - Curate issue 3 - (tiếng Anh)</a>,&nbsp;&nbsp;
+            
+                <a href="/culture/culture">Culture - Curate issue 2 - (tiếng Anh)</a>,&nbsp;&nbsp;
+            
+                <a href="/culture/come-back">Comeback - Curate issue 1 - (tiếng Anh)</a>
+               </p>
       
           <h3>cusinary</h3>
           <p> 
@@ -185,7 +196,7 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
         <p>Tổng hợp những bài viết, phân tích, bình luận hay trên mạng, đã được đọc, chọn lọc và biên tập.</p>
       </div>
       <div class="col-sm-4">
-        <h2>Kêu gọi ủng hộ</h2>
+        <h2>Donate</h2>
           <p>Vì đây là trang web phi lợi nhuận và dành cho mọi người, nên <a href="mailto:binhbet+donate@gmail.com?subject='Donate for thichdoc'">sự tài trợ</a> của bạn sẽ giúp trang web luôn miễn phí và không có quảng cáo phiền phức.</p>
       </div>
     </div>
