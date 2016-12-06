@@ -161,7 +161,7 @@ table {
 .image {
   margin: 0 auto;
   display: block;
-  max-width: 80%;
+  max-width: 100%;
   -webkit-filter: drop-shadow(3px 3px 3px #222);
   filter: drop-shadow(3px 3px 3px #222); }
 
