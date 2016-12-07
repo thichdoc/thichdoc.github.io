@@ -19,42 +19,13 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/main.css">
 
-  <script type="text/javascript">
-    window.MathJax = {
-      tex2jax: {
-        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-        processEscapes: true
-      },
-
-      TeX: {
-        equationNumbers: { autoNumber: "AMS" }
-      },
-
-      CommonHTML: {
-        scale: 90
-      }
-    };
-  </script>
-  <script type="text/javascript" async
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-    ga('create', '', 'auto');
-    ga('send', 'pageview');
-  </script>
 </head>
 
   <body>
     
 
   <div class="btn-search">
-    <a href="javascript:void(0)" onclick="toggleSearch()" class="big-ornament" style="z-index: inherit;"><svg viewBox="0 0 512 512"><path d="M280.978 320.447l107.668 75.39c10.867 7.609 25.841 4.974 33.449-5.891 7.606-10.863 4.971-25.831-5.905-33.446l-105.456-73.841c8.658-16.94 13.542-36.132 13.542-56.465 0-68.59-55.578-124.194-124.138-124.194-68.559 0-124.138 55.603-124.138 124.194 0 68.59 55.578 124.194 124.138 124.194 30.877 0 59.12-11.278 80.84-29.94zm-80.84-18.081c42.05 0 76.138-34.103 76.138-76.172 0-42.069-34.088-76.172-76.138-76.172-42.05 0-76.138 34.103-76.138 76.172 0 42.069 34.088 76.172 76.138 76.172z"/></svg>
+    <a href="javascript:void(0)" onclick="toggleSearch()" style="z-index: inherit;"><svg viewBox="0 0 1000 1000"><path fill="#c72323" d="M280.978 320.447l107.668 75.39c10.867 7.609 25.841 4.974 33.449-5.891 7.606-10.863 4.971-25.831-5.905-33.446l-105.456-73.841c8.658-16.94 13.542-36.132 13.542-56.465 0-68.59-55.578-124.194-124.138-124.194-68.559 0-124.138 55.603-124.138 124.194 0 68.59 55.578 124.194 124.138 124.194 30.877 0 59.12-11.278 80.84-29.94zm-80.84-18.081c42.05 0 76.138-34.103 76.138-76.172 0-42.069-34.088-76.172-76.138-76.172-42.05 0-76.138 34.103-76.138 76.172 0 42.069 34.088 76.172 76.138 76.172z"/></svg>
     </a>
   </div>
 
@@ -65,6 +36,12 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 
     <div class="post">
   <div class="container main">
+    <div class="btn-homepage">
+        <a href="/" class="small-ornament"><svg viewBox="0 0 512 512"><g><polygon fill="#c72323" points="448,288 256,64 64,288 112,288 112,448 208,448 208,320 304,320 304,448 400,448 400,288 	"/></g>
+        </svg>
+        </a>
+    </div>
+    
     <div class="row">
       <header>
         <center><span itemprop="name"><h1>Những bộ ảnh đẹp</h1></span></center>
@@ -130,7 +107,7 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
         <h2>about</h2>
         <p>Tổng hợp những bài viết, phân tích, bình luận hay trên mạng, đã được đọc, chọn lọc và biên tập.</p>
       </div>
-      <div class="col-sm-4"style="text-align: right;">
+      <div class="col-sm-4" style="text-align: right;">
         <h2>Donate</h2>
           <p>Vì đây là trang web phi lợi nhuận và dành cho mọi người, nên <a href="mailto:binhbet+donate@gmail.com?subject='Donate for thichdoc'">sự tài trợ</a> của bạn sẽ giúp trang web luôn miễn phí và không có quảng cáo phiền phức.</p>
       </div>
@@ -141,17 +118,30 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
     </div>
     
   </div>
-</footer>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
+
+<!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script> -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script type="text/javascript" src="/assets/super-search.js"></script>
 <script>
   superSearch({
       searchFile: '/feed.xml',
       searchSelector: '#js-super-search', // CSS Selector for search container element.
       inputSelector: '#js-super-search__input', // CSS selector for <input>
-      resultsSelector: '#js-super-search__results' // CSS selector for results container
+        resultsSelector: '#js-super-search__results' // CSS selector for results container
   });
 </script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+
+</footer>
 
   </body>
 </html>
