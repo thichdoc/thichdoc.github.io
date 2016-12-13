@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Những bài viết hay</title>
-    <description>Tổng hợp những bài viết, phân tích, bình luận hay trên mạng, đã được đọc, chọn lọc và biên tập.</description>
+    <description>Tổng hợp những bài viết, phân tích, bình luận hay trên mạng, đã được chọn lọc và biên tập.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 13 Dec 2016 15:58:44 +0700</pubDate>
-    <lastBuildDate>Tue, 13 Dec 2016 15:58:44 +0700</lastBuildDate>
+    <pubDate>Tue, 13 Dec 2016 16:05:36 +0700</pubDate>
+    <lastBuildDate>Tue, 13 Dec 2016 16:05:36 +0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
