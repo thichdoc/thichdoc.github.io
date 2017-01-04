@@ -5,17 +5,39 @@
     <description>Tổng hợp những bài viết, phân tích, bình luận hay trên mạng, đã được chọn lọc và biên tập.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 22 Dec 2016 22:04:54 +0700</pubDate>
-    <lastBuildDate>Thu, 22 Dec 2016 22:04:54 +0700</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <pubDate>Wed, 04 Jan 2017 11:18:31 +0700</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2017 11:18:31 +0700</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title></title>
+        <title>Bộ ảnh về Tổng thống Mỹ, Barack Obama, năm 2016</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Pete Souza, nhiếp ảnh gia của Nhà Trắng, vừa tung ra seri ảnh về tổng thống Obama trong năm 2016. Đây là năm cuối cùng của ông trong suốt tám năm qua ông và đội ngũ của mình chuyên chụp ảnh cho Nhà Trắng. Có những tấm ảnh mang tính rất cá nhân nhưng cũng đọng lại trong đó không ít cảm xúc, chất lịch sử.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <author></author>
+        <pubDate>Wed, 04 Jan 2017 00:00:00 +0700</pubDate>
+        <link>/galleries/gallery-obama-in-2016</link>
+        <guid isPermaLink="true">/galleries/gallery-obama-in-2016</guid>
+        
+        <category>photo</category>
+        
+        <category>obama</category>
+        
+        <category>Mỹ</category>
+        
+        
+        <category>Galleries</category>
+        
+      </item>
+    
+      <item>
+        <title>Phụ nữ có chất</title>
         <description>&lt;blockquote&gt;
   &lt;p&gt;Mấy hôm nay, Madonna, biểu tượng toàn cầu, lại một lần nữa cướp hết cả ánh hào quang thế giới bằng bài phát biểu của mình.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/c6Xgbh2E0NM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/c6Xgbh2E0NM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; class=&quot;vid&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Trong lễ trao giải Phụ nữ của năm trong hạng mục Phụ nữ trong âm nhạc 2016 của Billboard, đã dành trọn vẹn bài phát biểu để vừa thể hiện con người tức giận, vừa hài hước, vừa thắng thắn một cách tàn nhẫn.  Cô nói về cách mình trở thành người phụ nữ daring (mạnh mẽ có phần liều lĩnh), và vulnerable (yếu đuối, dễ bị tổn thương), và cách cô trở thành người có quan điểm rõ ràng và đứng lên bảo vệ niềm tin của mình – thứ duy nhất mà cô tin rằng nó có thể yên ổn, lâu dài, khi xung quanh mình bạn bè dần mất đi, mọi thứ đều thay đổi.&lt;/p&gt;
 
@@ -48,16 +70,20 @@
 &lt;p&gt;Lời gợi ý của Madonna có thể áp dụng với bất kỳ lĩnh vực nào, chứ không chỉ là âm nhạc.&lt;/p&gt;
 
 </description>
-        <author></author>
-        <pubDate>Thu, 22 Dec 2016 22:04:54 +0700</pubDate>
-        <link>/2016/12/22/2016-12-22-phu-nu-co-chat.html</link>
-        <guid isPermaLink="true">/2016/12/22/2016-12-22-phu-nu-co-chat.html</guid>
+        <author>Khổng Loan</author>
+        <pubDate>Thu, 22 Dec 2016 00:00:00 +0700</pubDate>
+        <link>/life/2016/12/22/phu-nu-co-chat.html</link>
+        <guid isPermaLink="true">/life/2016/12/22/phu-nu-co-chat.html</guid>
         
+        <category>phụ nữ</category>
+        
+        
+        <category>life</category>
         
       </item>
     
       <item>
-        <title></title>
+        <title>Ngành công nghiệp sáng tạo giết ý tưởng như thế nào?</title>
         <description>&lt;blockquote&gt;
   &lt;p&gt;Một ý tưởng trong ngành công nghiệp sáng tạo để đến ngày thực sự thành hình phải trải qua sơ sơ ba vạn tám ngàn kiếp nạn, mà có lẽ những câu chuyện chất dày vài cuốn sách Ý tưởng này là của chúng mình dày 300 trang cũng chưa kể hết.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -70,7 +96,7 @@
 
 &lt;p&gt;Một ý tưởng trong ngành công nghiệp sáng tạo để đến ngày thực sự thành hình phải trải qua sơ sơ ba vạn tám ngàn kiếp nạn, mà có lẽ những câu chuyện chất dày vài cuốn sách Ý tưởng này là của chúng mình dày 300 trang cũng chưa kể hết.&lt;/p&gt;
 
-&lt;h3 id=&quot;kip-nn-t-marketer&quot;&gt;Kiếp nạn từ Marketer&lt;/h3&gt;
+&lt;h3 id=&quot;kiếp-nạn-từ-marketer&quot;&gt;Kiếp nạn từ Marketer&lt;/h3&gt;
 
 &lt;p&gt;Người trong nghề thường đùa, kiếp làm agency   là kiếp “đi khách”. Nếu đi vào khách tốt, khách “có văn hóa”, yêu nhãn hàng hết mực để dám thử những ý tưởng liều lĩnh, thì ấy là cơ may của người làm agency. Còn trong các trường hợp khác (mà đau đớn thay lại là một số không nhỏ) thì khách thường không biết trân trọng công sức sáng tạo, coi copywriter là cái máy ra chữ và coi designer là photoshop không hơn. Chưa hết, khách thường chỉ dám loanh quanh ở vùng an toàn, bám víu đến những ý tưởng “xưa như trái đất” như Tết thì phải đoàn viên, quảng cáo thì phải có ca nhạc. Người làm sáng tạo chỉ biết oán thân trách phận, hùng hổ đem ý tưởng đi rồi lại rấm rứt vác ý tưởng về, ôm ấp niềm đau mong một ngày được thỏa chí tang bồng đem ý tưởng đánh đông dẹp bắc.&lt;/p&gt;
 
@@ -80,7 +106,7 @@
 
 &lt;p class=&quot;chuthich&quot;&gt;Phản ứng của tôi khi khách hàng đòi dùng lại ý tưởng ban đầu sau khi đã bắt sửa 69 lần.&lt;/p&gt;
 
-&lt;h3 id=&quot;kip-nn-t-ngi-thn&quot;&gt;Kiếp nạn từ người thân&lt;/h3&gt;
+&lt;h3 id=&quot;kiếp-nạn-từ-người-thân&quot;&gt;Kiếp nạn từ người thân&lt;/h3&gt;
 
 &lt;p&gt;Công nghiệp sáng tạo là một ý niệm mới, và sẽ chẳng dễ dàng gì cho những người làm ngành này tìm kiếm được những người hiểu cho công việc của họ. Xung quanh họ, vẫn nhiều lắm những thành phần nguy hiểm, sẵn sàng chụp mũ, không chịu lắng nghe thì còn lâu lâu mới hiểu như: làm quảng cáo suốt ngày được cà kê quán xá chẳng cần vào văn phòng, dân quảng cáo toàn giới nghệ sĩ ăn chơi lầy lội.&lt;/p&gt;
 
@@ -92,7 +118,7 @@
 
 &lt;p&gt;&lt;em&gt;Bụng đang rầu thúi ruột mà cứ bắt viết vui là thế nào?&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;kip-nn-t-ng-nghip&quot;&gt;Kiếp nạn từ đồng nghiệp&lt;/h3&gt;
+&lt;h3 id=&quot;kiếp-nạn-từ-đồng-nghiệp&quot;&gt;Kiếp nạn từ đồng nghiệp&lt;/h3&gt;
 
 &lt;p&gt;Nếu cả thế giới này đều là siêu nhân, thì chẳng còn ai là siêu nhân hết. Tương tự, khi đã bước chân vào ngành công nghiệp sáng tạo và xung quanh dường như toàn là những cái “máy sản xuất ý tưởng”, “kẻ yếu ra gió” sẽ chỉ còn thấy mình là người “tối tạo” nhất thế giới này.&lt;/p&gt;
 
@@ -104,7 +130,7 @@
 
 &lt;p&gt;Trước những áp lực lớn như vậy, kẻ nào gan thì bước tiếp, còn kẻ nào tự nhận thấy “cái gì đó sai sai” sẽ sớm dừng cuộc chơi. Ngành công nghiệp sáng tạo như cỗ máy xay sẵn sàng đè nát những ý tưởng trứng nước như vậy đấy!&lt;/p&gt;
 
-&lt;h3 id=&quot;v-t-chnh-bn-thn&quot;&gt;Và từ chính bản thân&lt;/h3&gt;
+&lt;h3 id=&quot;và-từ-chính-bản-thân&quot;&gt;Và từ chính bản thân&lt;/h3&gt;
 
 &lt;p&gt;Cầu toàn là bệnh nan y của những người làm sáng tạo. Cá nhân tôi trong một lần tham dự buổi chia sẻ về kinh nghiệm tham gia các cuộc thi ý tưởng quảng cáo sáng tạo 48 giờ thì được đàn chị khuyên răn rằng, đêm đầu tiên luôn luôn phải dành để ngủ, bởi sau khi thức dậy thì phần lớn sẽ thay đổi lại ý tưởng hoàn toàn. Ý tưởng lung linh mĩ miều, sản phẩm vắt não của cả ngày hôm trước chỉ sau một đêm bỗng dưng sẽ trở nên cấn cấn, sao sao. Rồi chỉnh lại chỗ này một tí, chỗ kia một tí, cho đến lúc nó mang một diện mạo mới. Đó là cách một ý tưởng ra đời - nhưng cũng là lời vĩnh biệt cho một ý tưởng tội nghiệp không bao giờ có cơ hội thành hình.&lt;/p&gt;
 
@@ -114,7 +140,7 @@
 
 &lt;p&gt;Rồi giữa cái khó sống ấy, bao nhiêu người còn chai mặt đi được với sáng tạo đến cuối con đường?&lt;/p&gt;
 
-&lt;h3 id=&quot;tm-kt&quot;&gt;Tạm kết&lt;/h3&gt;
+&lt;h3 id=&quot;tạm-kết&quot;&gt;Tạm kết&lt;/h3&gt;
 
 &lt;p&gt;Bìa sau cuốn sách có đoạn trích:&lt;/p&gt;
 
@@ -128,11 +154,19 @@ Sáng tạo chưa bao giờ là một chuyện dễ dàng. Sáng tạo một cá
 
 &lt;p&gt;Mà Huỳnh Vĩnh Sơn cũng đã ghi trong sách rồi đó: “Yêu ý tưởng quá thì dễ cứng nhắc lắm, chỉ nên yêu những vui buồn khi biến ý tưởng thành hiện thực là được rồi”.&lt;/p&gt;
 </description>
-        <author></author>
-        <pubDate>Thu, 22 Dec 2016 22:04:54 +0700</pubDate>
-        <link>/2016/12/22/2016-12-22-nganh-cong-nghiep-giet-chet-y-tuong-nhu-the-nao.html</link>
-        <guid isPermaLink="true">/2016/12/22/2016-12-22-nganh-cong-nghiep-giet-chet-y-tuong-nhu-the-nao.html</guid>
+        <author>Trạm Đọc</author>
+        <pubDate>Thu, 22 Dec 2016 00:00:00 +0700</pubDate>
+        <link>/work/2016/12/22/nganh-cong-nghiep-giet-chet-y-tuong-nhu-the-nao.html</link>
+        <guid isPermaLink="true">/work/2016/12/22/nganh-cong-nghiep-giet-chet-y-tuong-nhu-the-nao.html</guid>
         
+        <category>work</category>
+        
+        <category>idea</category>
+        
+        <category>công nghiệp sáng tạo</category>
+        
+        
+        <category>work</category>
         
       </item>
     
@@ -208,7 +242,7 @@ Sáng tạo chưa bao giờ là một chuyện dễ dàng. Sáng tạo một cá
         <title>Hãy ăn cắp như một nghệ sĩ: 3 điều bọn sáng tạo chưa bao giờ nói với bạn</title>
         <description>&lt;p&gt;&lt;em&gt;Từ tác giả 2 cuốn sách Best-seller về sáng tạo: Nghệ Thuật PR Bản Thân và Ai Cũng Là Nghệ Sĩ&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;ngh-s-l-phi-bit-n-cp&quot;&gt;1. Nghệ sĩ là phải biết ăn cắp&lt;/h3&gt;
+&lt;h3 id=&quot;1-nghệ-sĩ-là-phải-biết-ăn-cắp&quot;&gt;1. Nghệ sĩ là phải biết ăn cắp&lt;/h3&gt;
 
 &lt;p&gt;Mỗi một nghệ sĩ thường bị hỏi, “Mày lấy những ý tưởng từ đâu ra đấy?” Thằng nào trung thực sẽ trả lời, “Tớ ăn cắp chúng.”&lt;/p&gt;
 
@@ -234,7 +268,7 @@ Sáng tạo chưa bao giờ là một chuyện dễ dàng. Sáng tạo một cá
 
 &lt;p&gt;Hai, chọn cho mình một thần tượng sáng tạo và đọc tất tần tật mọi tác phẩm của ông/cô ta. Ba, đừng ngừng sự học khi đã tốt nghiệp. Google mọi thứ. Đừng bao giờ hỏi người khác nếu chưa Google, vì họ sẽ chỉ cho bạn một câu trả lời, còn Google sẽ bạn hàng trăm đường link. Bốn, luôn mang theo mình một cuốn sổ ghi chép. Để làm gì? Ăn Cắp. Chép lại mọi ý tưởng, từ ngữ, lời văn, ý thơ…bất cứ thứ gì bạn thấy đáng để ăn cắp.&lt;/p&gt;
 
-&lt;h3 id=&quot;ng-ch-cho-n-khi-bn-bit-mnh-thc-s-mun-g&quot;&gt;2. Đừng chờ cho đến khi bạn biết mình thực sự muốn gì&lt;/h3&gt;
+&lt;h3 id=&quot;2-Đừng-chờ-cho-đến-khi-bạn-biết-mình-thực-sự-muốn-gì&quot;&gt;2. Đừng chờ cho đến khi bạn biết mình thực sự muốn gì&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://sv1.upsieutoc.com/2016/12/14/02A-what-we-are-vs_fmt.jpg&quot; alt=&quot;&quot; class=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -254,7 +288,7 @@ Sáng tạo chưa bao giờ là một chuyện dễ dàng. Sáng tạo một cá
 
 &lt;p&gt;Câu hỏi số 2 khó nhằn hơn. Bởi suy cho cùng, nếu giống 100% người bạn hâm hộ, thì Chúa còn cần tạo ra bạn làm gì cho chật Trái Đất. Đây là điểm khác biệt giữa một tên Trộm giỏi và Trộm tồi. Một tên cả đời sẽ mãi đi chép, còn một tên, sau khi có một số chỗ cố mãi không chép được, sẽ tự biết sáng tạo để vượt vũ môn hóa rồng, tìm ra tiếng nói riêng, phong cách riêng. Như Austin Kleon nói “Hãy đóng góp thứ gì đó cho thế giới mà chỉ mình bạn mới làm được.”&lt;/p&gt;
 
-&lt;h3 id=&quot;hy-vit-cun-sch-m-bn-mun-c&quot;&gt;3. Hãy viết cuốn sách mà bạn muốn đọc&lt;/h3&gt;
+&lt;h3 id=&quot;3-hãy-viết-cuốn-sách-mà-bạn-muốn-đọc&quot;&gt;3. Hãy viết cuốn sách mà bạn muốn đọc&lt;/h3&gt;
 
 &lt;p&gt;Có một câu truyện về thành viên Bradford Cox, thuộc ban nhạc Rock Deerhunter nổi tiếng của Mỹ. Anh nói rằng: &lt;code class=&quot;highlighter-rouge&quot;&gt;Khi còn nhỏ, anh không có Internet, và vì vậy anh buộc phải đợi cho đến ngày ra mắt album của nhóm nhạc mình yêu thích nhất. Vậy nên anh chơi một trò: anh sẽ ngồi và thu âm lại bản album &quot;fake&quot;. Rồi khi nó chính thức xuất hiện, anh sẽ so sánh các bài hát mình viết với các bài chính thức. Và bạn biết không, rất nhiều những bài &quot;fake&quot; này cuối cùng lại trở thành những ca khúc của nhóm Deerhunter.&lt;/code&gt;&lt;/p&gt;
 
@@ -593,7 +627,7 @@ un &amp;amp; relaxative&lt;/p&gt;
 
 &lt;p class=&quot;chuthich&quot;&gt;Nguyên phần đùi heo muối serrano.&lt;/p&gt;
 
-&lt;h2 id=&quot;tht-ca-ni&quot;&gt;Thịt của núi&lt;/h2&gt;
+&lt;h2 id=&quot;thịt-của-núi&quot;&gt;Thịt của núi&lt;/h2&gt;
 
 &lt;p&gt;Khác chăng ở chỗ giống heo, cách nuôi heo, lượng muối dùng, thời gian muối thịt, địa điểm, khí hậu mùa màng và sự trung thực của nhà sản xuất. Nếu lấy serrano - loại thịt muối phổ biến nhất với sản lượng luôn đứng đầu nước Tây Ban Nha - làm ví dụ, thì đây là loại thịt của núi.&lt;/p&gt;
 
@@ -636,7 +670,7 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p class=&quot;chuthich&quot;&gt;Cắt iberico bằng tay-assets3.howtospendit.ft-static.com&lt;/p&gt;
 
-&lt;h2 id=&quot;t-nh-iberico&quot;&gt;Đắt như iberico&lt;/h2&gt;
+&lt;h2 id=&quot;Đắt-như-iberico&quot;&gt;Đắt như iberico&lt;/h2&gt;
 
 &lt;p&gt;Serrano còn có mùi vị dễ chịu nếu đem so với các loại thịt muối đậm đà khác. Người châu Á thường chuộng serrano hơn là iberico, dù đối với dân Tây Ban Nha iberico mới là thịt muối cao cấp. Hai món thịt này có cách muối y chang nhau, khác ở chỗ serrano làm từ thịt heo trắng, chủ yếu là giống heo Landrace hoặc Duroc.&lt;/p&gt;
 
@@ -690,7 +724,7 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Món ăn trên gồm đế bánh được làm bằng bột, bên trên phủ thịt băm, rau và các loại gia vị, ngon nhất khi được nướng bằng củi. Thậm chí đã có cả vài phim tài liệu sau đó được công chiếu trên truyền hình chỉ nhằm giải thích tại sao đây là món ăn thuộc về người Thổ Nhĩ Kỳ.&lt;/p&gt;
 
-&lt;h2 id=&quot;nhiu-nc-x-phn&quot;&gt;Nhiều nước xí phần&lt;/h2&gt;
+&lt;h2 id=&quot;nhiều-nước-xí-phần&quot;&gt;Nhiều nước xí phần&lt;/h2&gt;
 
 &lt;p&gt;Câu chuyện không hề buồn cười như thoạt tưởng, vụ tranh chấp bánh nướng này cũng không phải là lần đầu tiên Armenia và Thổ Nhĩ Kỳ bị cuốn vào những căng thẳng ngoại giao quốc tế liên quan tới bột mì, jambon và rau.&lt;/p&gt;
 
@@ -710,7 +744,7 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Năm 2014, người Síp gốc Hi Lạp đã thỉnh cầu Ủy ban châu Âu bảo vệ nguồn gốc của món &lt;em&gt;halloumi&lt;/em&gt;, gây ra phản ứng dữ dội trong cộng đồng người Thổ Nhĩ Kỳ trên đảo này.&lt;/p&gt;
 
-&lt;h2 id=&quot;mi-ngi-mt-ming&quot;&gt;Mỗi người một miếng?&lt;/h2&gt;
+&lt;h2 id=&quot;mỗi-người-một-miếng&quot;&gt;Mỗi người một miếng?&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://static.new.tuoitre.vn/tto/i/s626/2016/11/24/783a5264.jpg&quot; alt=&quot;&quot; class=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -762,7 +796,7 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
         <title>9 xu hướng thiết kế nổi bật trong năm 2016</title>
         <description>&lt;p&gt;Năm 2016 vừa qua là một năm có nhiều biến động lớn trong ngành thiết kế. Nhiều nhánh mỹ thuật mới được nảy sinh và phát triển như công nghệ thực tại ảo hay trí tuệ nhân tạo trong thiết kế. Đồng thời nhiều nhà thiết kế lại tìm cách trở về với cội nguồn và những yếu tố cơ bản. Bài viết sau sẽ giới thiệu tới các bạn 9 xu hướng thiết kế lớn trong năm qua và hứa hẹn nhiều tiềm năng để tiếp tục phát triển trong tương lai.&lt;/p&gt;
 
-&lt;h2 id=&quot;ph-mu&quot;&gt;1. Phủ màu&lt;/h2&gt;
+&lt;h2 id=&quot;1-phủ-màu&quot;&gt;1. Phủ màu&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://media.designs.vn/public/media/media/picture/24-11-2016/9-xu-huong-thiet-ke-noi-bat-trong-nam-2016-1.png&quot; alt=&quot;&quot; class=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -770,7 +804,7 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Xu hướng sử dụng các lớp phủ màu xuất hiện trên khắp các trang web trong năm qua, từ &lt;a href=&quot;https://www.nycpride.org/&quot;&gt;New York Pride&lt;/a&gt; đến studio thiết kế &lt;a href=&quot;http://weareadaptable.com/journal/all/ui-improvements-for-a-rapid-purchasing-experience/&quot;&gt;We Are Adaptable&lt;/a&gt; từ Birmingham. Màu sắc được lựa chọn cũng là một xu hướng (trend-in-a-trend). Bạn có thể bắt gặp các sắc thái đỏ khác nhau ở trang chủ các địa chỉ lớn như &lt;a href=&quot;http://www.newdealdesign.com/&quot;&gt;New Deal Design&lt;/a&gt;, &lt;a href=&quot;https://mailchimp.com/2015/#visit-from-a-mariachi-band&quot;&gt;MailChimp’s Year in Review&lt;/a&gt; hay &lt;a href=&quot;http://www.loisjeans.com/en/ss2015/campaign&quot;&gt;Louis Jeans&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;neo-memphis&quot;&gt;2. Neo-Memphis&lt;/h2&gt;
+&lt;h2 id=&quot;2-neo-memphis&quot;&gt;2. Neo-Memphis&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://media.designs.vn/public/media/media/picture/24-11-2016/9-xu-huong-thiet-ke-noi-bat-trong-nam-2016-2.jpg&quot; alt=&quot;&quot; class=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -778,7 +812,7 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Năm 2015, với bài viết Neo-Memphis Design: It Came From the ‘80s, tạp chí Wall Street Journal đã mang lại một làn gió mới cho thiết kế. Với các hình vectơ phẳng, mẫu họa tiết hình học, màu nền sáng, khối màu đậm cùng các yếu tố kỳ quặc như hình zig-zags, conftetti hay squiggles, xu hướng này bắt đầu vào sản phẩm, đồ nội thất, thiết kế nội thất và thời trang, và nó bây giờ lan rộng ra toàn thiết kế web, đồ họa và in ấn ví dụ các sản phẩm từ &lt;a href=&quot;http://www.itsnicethat.com/articles/a20-bereza&quot;&gt;A-2-O&lt;/a&gt;, &lt;a href=&quot;http://www.muokkaa.com/&quot;&gt;Muokkaao&lt;/a&gt;, &lt;a href=&quot;http://www.creativebloq.com/art-direction/one-watch-talented-young-gun-adi-goodrich-11513803&quot;&gt;Adi Goodrich&lt;/a&gt; hay &lt;a href=&quot;https://www.behance.net/carmenacher&quot;&gt;Carmen Nacher&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;phong-cch-ti-gin&quot;&gt;3. Phong cách tối giản&lt;/h2&gt;
+&lt;h2 id=&quot;3-phong-cách-tối-giản&quot;&gt;3. Phong cách tối giản&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://media.designs.vn/public/media/media/picture/24-11-2016/9-xu-huong-thiet-ke-noi-bat-trong-nam-2016-3.png&quot; alt=&quot;&quot; class=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -786,13 +820,13 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Google’s Material Design là một ví dụ tiêu biểu cho phong cách này. Ra đời từ năm 2014 , thiết kế là một loạt hình mẫu thiết kế phẳng được tối ưu hóa cho trải nghiệm của người sử dụng các thiết bị kỹ thuật số. Năm nay, công ty đã làm mới giao diện các sản phẩm của mình và đưa ra một bộ công cụ giúp các nhà thiết kế làm việc với &lt;a href=&quot;https://material.google.com/&quot;&gt;Google’s Material Design&lt;/a&gt; dễ dàng hơn.&lt;/p&gt;
 
-&lt;h2 id=&quot;progressive-web-apps&quot;&gt;4. Progressive web apps&lt;/h2&gt;
+&lt;h2 id=&quot;4-progressive-web-apps&quot;&gt;4. Progressive web apps&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://media.designs.vn/public/media/media/picture/24-11-2016/9-xu-huong-thiet-ke-noi-bat-trong-nam-2016-4.png&quot; alt=&quot;&quot; class=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Có nhiều định nghĩa khác nhau về Progressive web apps nhưng về cơ bản chúng là trang web được thiết kể để có thể sử dụng các chức năng mà trước kia chỉ có ứng dụng bản địa (native app) có khả năng thực hiện. Pokedex.org là một ví dụ tuyệt vời như thế (và liệu chúng ta có thể có một năm 2016 tròn trĩnh mà không nhắc đến Pokemon?). Trang có thể gửi thông báo, làm việc ngoại tuyến, khai thác phần cứng và truy cập từ  màn hình chính đồng thời có thể tự động kết nối máy chủ, cập nhật và phản hồi yêu cầu của người dùng. Một số ứng dụng tham khảo bạn có thể tìm thấy &lt;a href=&quot;https://pwa.rocks/&quot;&gt;ở đây&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;thc-t-o-trong-xy-dng-thng-hiu&quot;&gt;5. Thực tế ảo trong xây dựng thương hiệu&lt;/h2&gt;
+&lt;h2 id=&quot;5-thực-tế-ảo-trong-xây-dựng-thương-hiệu&quot;&gt;5. Thực tế ảo trong xây dựng thương hiệu&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://media.designs.vn/public/media/media/picture/24-11-2016/9-xu-huong-thiet-ke-noi-bat-trong-nam-2016-5.png&quot; alt=&quot;&quot; class=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -800,13 +834,13 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Một trở ngại lớn khi xem xét quảng bá theo kênh này là hiện các thiết bị VR khá đắt đỏ. Hiện chỉ có các công ty lớn mới đủ điều kiện thực hiện điều này. Absolut Labs cung cấp cho khách hàng cơ hội tham gia cùng nhạc sĩ Deadmaus trong một buổi hòa nhạc thực tế ảo; Saatchi &amp;amp; Saatchi đã tạo ra một đội ngũ VR 35 người để phát triển showroom VR cho Toyota; Charlotte Tilsbury đã sử dụng một Kate Moss được ảo hóa để quảng bá nước hoa mới của mình.&lt;/p&gt;
 
-&lt;h2 id=&quot;tr-li-tng-lai&quot;&gt;6. Trở lại tương lai&lt;/h2&gt;
+&lt;h2 id=&quot;6-trở-lại-tương-lai&quot;&gt;6. Trở lại tương lai&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://media.designs.vn/public/media/media/picture/24-11-2016/9-xu-huong-thiet-ke-noi-bat-trong-nam-2016-6.png&quot; alt=&quot;&quot; class=&quot;image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Sự hoài niệm luôn luôn là một yếu tố thiết yếu trong mỗi thiết kế. Nhưng trong năm 2016, có vẻ như quá khứ đã được cái nhà thiết kế khai thác triệt để khi khôi phục hay tái sử dụng những yếu tố cơ bản của biểu tượng thương hiệu trước kia. Vi dụ như Kodak đã sử dụng lại biểu tượng mà họ đã tự hào vào những năm 1970. Theo ý kiến riêng của chúng tôi, có rất nhiều biểu tượng thương hiệu cổ điển khác không bao giờ được thay đổi, vì vậy chúng tôi hy vọng xu hướng này tiếp tục vào năm 2017.&lt;/p&gt;
 
-&lt;h2 id=&quot;vt-l-ha--ha-k-thut-s&quot;&gt;7. Vật lý hóa đồ họa kĩ thuật số&lt;/h2&gt;
+&lt;h2 id=&quot;7-vật-lý-hóa-đồ-họa-kĩ-thuật-số&quot;&gt;7. Vật lý hóa đồ họa kĩ thuật số&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://media.designs.vn/public/media/media/picture/24-11-2016/9-xu-huong-thiet-ke-noi-bat-trong-nam-2016-7.jpg&quot; alt=&quot;&quot; class=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -816,7 +850,7 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Trong khi đó, Tuur Stuyck từ Adobe đã tạo ra Corel Painter- style, công cụ vẽ thời gian thực cho máy tính bảng. Microsoft hướng mục tiêu vào các nghệ sĩ và nhà quảng cáo với Surface Studio. Có vẻ như tất cả mọi người đang muốn trở thành một phần của không gian vẽ kỹ thuật số; và điều đó thì có lợi cho sáng tạo ở mọi nơi.&lt;/p&gt;
 
-&lt;h2 id=&quot;phn-mm-thit-k-tr-nn-a-dng-hn&quot;&gt;8. Phần mềm thiết kế trở nên đa dạng hơn&lt;/h2&gt;
+&lt;h2 id=&quot;8-phần-mềm-thiết-kế-trở-nên-đa-dạng-hơn&quot;&gt;8. Phần mềm thiết kế trở nên đa dạng hơn&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://media.designs.vn/public/media/media/picture/24-11-2016/9-xu-huong-thiet-ke-noi-bat-trong-nam-2016-8.png&quot; alt=&quot;&quot; class=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -826,7 +860,7 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Adobe ra mắt Adobe XD để lấy thị phần từ Sketch, trong khi đó Bohemian BV lại liên tục tung ra các bản cập nhật với trải nghiệm người dùng được cải thiện đồng thời tăng số lượng các chương trinh mở rộng cho Sketch.&lt;/p&gt;
 
-&lt;h2 id=&quot;ai-bt-u-m-nhn-vic-thit-k&quot;&gt;9. AI bắt đầu đảm nhận việc thiết kế&lt;/h2&gt;
+&lt;h2 id=&quot;9-ai-bắt-đầu-đảm-nhận-việc-thiết-kế&quot;&gt;9. AI bắt đầu đảm nhận việc thiết kế&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://media.designs.vn/public/media/media/picture/24-11-2016/9-xu-huong-thiet-ke-noi-bat-trong-nam-2016-9.png&quot; alt=&quot;&quot; class=&quot;image&quot; /&gt;&lt;/p&gt;
 
@@ -856,7 +890,7 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
         <title>Người hùng hay công cụ?</title>
         <description>&lt;p&gt;Đã 10 năm trôi qua kể từ khi WikiLeaks xuất hiện. Ban đầu, tổ chức này và người sáng lập Julian Assange được ca tụng là những người tố cáo can đảm dám đứng lên vạch trần những dối trá của nền chính trị thế giới, nhưng đến nay đã xuất hiện câu hỏi rằng phải chăng WikiLeaks và cả Assange, rốt cuộc cũng chỉ là những quân cờ chính trị trong cuộc đấu lớn giữa các cường quốc mà thôi?&lt;/p&gt;
 
-&lt;h3 id=&quot;trai-c-nh-nhau-ng-ng-c-li&quot;&gt;“Trai cò đánh nhau, ngư ông đắc lợi”&lt;/h3&gt;
+&lt;h3 id=&quot;trai-cò-đánh-nhau-ngư-ông-đắc-lợi&quot;&gt;“Trai cò đánh nhau, ngư ông đắc lợi”&lt;/h3&gt;
 
 &lt;p&gt;Các bằng chứng mới nhất được báo The New York Times đưa ra trong một bài điều tra dài thườn thượt nói WikiLeaks chỉ đưa những tin tức có lợi cho Nga và có hại cho Mỹ, bao gồm việc công bố hàng ngàn thư điện tử của nội bộ Đảng Dân chủ ảnh hưởng lên cuộc tranh cử tổng thống Mỹ, tạo lợi thế cho ứng viên Đảng Cộng hòa Donald Trump, người được cho là ủng hộ Nga và Tổng thống Vladimir Putin.&lt;/p&gt;
 
@@ -890,7 +924,7 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Trước những nghi ngờ, Assange giải thích rằng WikiLeaks có hạn chế về nguồn lực và ngôn ngữ, nên họ không nên tập trung vào Nga, khi còn những nước lớn khác như Trung Quốc và Mỹ, và quan trọng hơn, dù sao thì việc các chính quyền toàn trị mạnh tay với những kẻ chống đối đã là chuyện “thường ngày ở huyện”, không có gì thú vị và khó thu hút sự chú ý.&lt;/p&gt;
 
-&lt;h3 id=&quot;la-v-khi&quot;&gt;Lửa và khói&lt;/h3&gt;
+&lt;h3 id=&quot;lửa-và-khói&quot;&gt;Lửa và khói&lt;/h3&gt;
 
 &lt;p&gt;Từ khi xuất hiện, WikiLeaks đã cho thế giới biết những câu chuyện gây sốc ở gần như mọi ngóc ngách. Gavin MacFadyen, một người ủng hộ WikiLeaks và điều hành Trung tâm báo chí điều tra tại Đại học thành phố London (ông vừa qua đời tháng 10-2016), lúc đó cho rằng câu hỏi cho Assange không phải là tài liệu ông có bắt nguồn từ đâu, mà là nó có xác thực và phục vụ cho lợi ích chung không.&lt;/p&gt;
 
@@ -928,7 +962,7 @@ axít amin. Và chính các axít amin là chất tạo cảm giác ngon miệng
 
 &lt;p&gt;Hàng loạt tài liệu của WikiLeaks từ sau khi Assange bị đẩy vào tị nạn ở Đại sứ quán Ecuador tại London đi theo hướng đó: vụ rò rỉ thư điện tử của Đảng Dân chủ Mỹ, thông tin về các cuộc đàm phán nhọc nhằn liên quan Hiệp định đối tác xuyên Thái Bình Dương (TPP), một hiệp định tương tự của Mỹ với 21 nước EU.&lt;/p&gt;
 
-&lt;h3 id=&quot;tip-theo-l-g&quot;&gt;Tiếp theo là gì?&lt;/h3&gt;
+&lt;h3 id=&quot;tiếp-theo-là-gì&quot;&gt;Tiếp theo là gì?&lt;/h3&gt;
 
 &lt;p&gt;Ngày 18-1-2012, Tổng thống thiên tả của Ecuador Rafael Correa khẳng định Assange có thể ở lại Đại sứ quán Ecuador tại London vĩnh viễn, 2 ngày sau khi bộ trưởng ngoại giao nước này thông báo cho phép ông tị nạn chính trị.&lt;/p&gt;
 
@@ -1232,7 +1266,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
         <title>4 giai đoạn của cuộc đời</title>
         <description>&lt;p&gt;Hãy đọc bài viết để biết bạn đang ở giai đoạn nào (hay đang mắc kẹt ở giai đoạn nào), nó định hình cuộc sống của bạn ra sao và suy ngẫm về chuyện liệu bạn muốn sống cuộc đời của mình như nào?&lt;/p&gt;
 
-&lt;h2 id=&quot;giai-on-1-bt-chc-ngi-khc&quot;&gt;Giai đoạn 1: Bắt chước người khác&lt;/h2&gt;
+&lt;h2 id=&quot;giai-đoạn-1-bắt-chước-người-khác&quot;&gt;Giai đoạn 1: Bắt chước người khác&lt;/h2&gt;
 
 &lt;p&gt;Từ khi sinh ra ta đã cần phụ thuộc vào người khác. Chúng ta không thể đi, không thể nói, không thể tự kiếm ăn, và chắc chắc là không thể tự kê khai thuế.&lt;/p&gt;
 
@@ -1248,7 +1282,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;Chúng ta phải luôn ý thức được những tiêu chuẩn và kì vọng của những người xung quanh dành cho chúng ta. Nhưng chúng ta cũng phải đủ mạnh mẽ để hành động bất chấp những tiêu chuẩn và sự mong đợi của khác khi bản thân mình cảm thấy điều đó là cần thiết. Chúng ta cần phải phát triển khả năng hành động do mình và vì mình.&lt;/p&gt;
 
-&lt;h2 id=&quot;giai-on-2-t-khm-ph-bn-thn&quot;&gt;Giai đoạn 2: Tự khám phá bản thân&lt;/h2&gt;
+&lt;h2 id=&quot;giai-đoạn-2-tự-khám-phá-bản-thân&quot;&gt;Giai đoạn 2: Tự khám phá bản thân&lt;/h2&gt;
 
 &lt;p&gt;Trong Giai đoạn 1, chúng ta học cách hòa nhập với con người và văn hóa xung quanh. Giai đoạn 2 sẽ là lúc học hỏi điều gì làm chúng ta khác biệt với đám đông. Điều này đòi hỏi chúng ta bắt đầu tự ra quyết định cho mình, tự thử thách mình, tự hiểu mình và khám phá ra điều gì khiến mình độc đáo.&lt;/p&gt;
 
@@ -1278,7 +1312,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;Với những cá nhân lành mạnh, Giai đoạn 2 bắt đầu từ giữa - cuối tuổi vị thành niên và kéo dài cho đến giữa 20 hoặc giữa 30. Những ai vẫn mãi kẹt trong giai đoạn 2 thường được mọi người gọi là mắc “Hội chứng Peter Pan” - những kẻ lông bông cả đời, luôn luôn đi tìm bản thân mình, nhưng không tìm thấy thứ gì.&lt;/p&gt;
 
-&lt;h2 id=&quot;giai-on-3-ton-tm-ton-&quot;&gt;Giai đoạn 3: Toàn tâm toàn ý&lt;/h2&gt;
+&lt;h2 id=&quot;giai-đoạn-3-toàn-tâm-toàn-ý&quot;&gt;Giai đoạn 3: Toàn tâm toàn ý&lt;/h2&gt;
 
 &lt;p&gt;Một khi bạn đã đẩy mình đến những giới hạn và hoặc là biết được những gì mình kém (ví dụ: thể thao, nghệ thuật nấu ăn) hoặc là hiểu rằng các cuộc vui thì cũng chúng tàn (ví dụ: hội hè, chơi điện thử, thủ dâm) thì bạn sẽ còn lại những thứ a) thực sự quan trọng với bạn, và b) bạn không đến nỗi quá tồi. Bây giờ là lúc bạn cần ghi dấu lên thế giới này.&lt;/p&gt;
 
@@ -1296,7 +1330,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;Những người bị mắt kẹt ở Giai đoạn thứ 3 thường là do không biết buông bỏ đam mê của mình và luôn ham muốn nhiều hơn. Chính vì vậy họ sẽ luôn khao khát phấn đấu đến tận 70 hay 80 tuổi.&lt;/p&gt;
 
-&lt;h2 id=&quot;giai-on-4-di-sn&quot;&gt;Giai đoạn 4: Di sản&lt;/h2&gt;
+&lt;h2 id=&quot;giai-đoạn-4-di-sản&quot;&gt;Giai đoạn 4: Di sản&lt;/h2&gt;
 
 &lt;p&gt;Khi đến giai đoạn này, mọi người đã dành khoảng 50 năm để đầu tư vào những thứ họ tin rằng là có ý nghĩa và quan trọng. Họ đã làm được những điều tuyệt vời, làm việc chăm chỉ, đạt được mọi thứ mình có, có thể đã có một gia đình hay một quỹ từ thiện hay tạo ra 1 sự đổi thay to lớn trong chính trị hay văn hóa, và giờ họ đã toại nguyện. Họ đã đạt đến độ tuổi mà năng lượng và hoàn cảnh của họ không cho phép họ theo đuổi đam mê của mình xa hơn nữa.&lt;/p&gt;
 
@@ -1308,7 +1342,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Giai đoạn 4 rất quan trọng về mặt tâm lý bởi vì nó khiến chúng ta dễ chấp nhận sự thật rằng ta rồi sẽ phải chết.&lt;/strong&gt;  Bởi vì là con người, chúng ta có một nhu cầu sâu thẳm muốn cảm thấy rằng cuộc đời của mình có một ý nghĩa gì đấy. Thứ ý nghĩa chúng ta luôn luôn tìm kiếm về bản chất chính là cơ chế tâm lý phòng vệ chống lại sự khó hiểu của cuộc sống này và sự tuyệt đối cái chết. Đánh mất ý nghĩa đó, hoặc nhìn nó tuột khỏi tầm tay, hoặc từ từ cảm thấy như thể thế giới này đã rời bỏ bạn lại phía sau, không khác nào phải đối diện trực diện với sự lãng quên và để nó nuốt chửng bạn.&lt;/p&gt;
 
-&lt;h2 id=&quot;bi-hc-cn-rt-ra-l-g&quot;&gt;Bài học cần rút ra là gì?&lt;/h2&gt;
+&lt;h2 id=&quot;bài-học-cần-rút-ra-là-gì&quot;&gt;Bài học cần rút ra là gì?&lt;/h2&gt;
 
 &lt;p&gt;Đi qua mỗi giai đoạn cuộc đời giúp chúng ta có thể kiểm soát hạnh phúc và sự thịnh vượng của mình tốt hơn.&lt;/p&gt;
 
@@ -1322,7 +1356,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;Trong mỗi giai đoạn, hạnh phúc trở nên phụ thuộc nhiều hơn vào các giá trị nội tại, có thể kiểm soát và bớt dựa vào các yếu tố bên ngoài của thế giới không ngừng xoay chuyển này.&lt;/p&gt;
 
-&lt;h2 id=&quot;xung-t-gia-cc-giai-on&quot;&gt;Xung đột giữa các giai đoạn&lt;/h2&gt;
+&lt;h2 id=&quot;xung-đột-giữa-các-giai-đoạn&quot;&gt;Xung đột giữa các giai đoạn&lt;/h2&gt;
 
 &lt;p&gt;Các giai đoạn sau không thay thế các giai đoạn trước đó. Chúng vượt lên trên nó. Trong Giai đoạn 2 mọi người vẫn quan tâm đến việc được người khác chấp thuận. Họ chỉ quan tâm nhiều hơn đến thứ gì khác. Trong Giai đoạn 3, mọi người vẫn quan tâm tới việc thúc đẩy những giới hạn của chính mình. Chỉ là họ quan tâm nhiều hơn đến những cam kết mà mình đã đặt ra.&lt;/p&gt;
 
@@ -1330,7 +1364,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;Nói chung, mọi người sẽ phóng chiếu giai đoạn của họ lên mọi người xung quanh mình. Những người ở Giai đoạn 1 sẽ phán xét những người khác qua khả năng họ có được xã hội chấp nhận hay không. Những người ở Giai đoạn 2 sẽ phán xét những người khác bằng khả năng vượt qua các giới hạn của chính mình và thử những thứ mới. Những người ở Giai đoạn 3 sẽ phán xét những người khác dựa trên những cam kết cuộc đời của họ và những thành tựu họ có thể đạt được. Những người ở giai đoạn 4 sẽ phán xét người khác dựa về những giá trị mà họ bảo vệ và những thứ họ đã chọn sống vì nó.&lt;/p&gt;
 
-&lt;h2 id=&quot;gi-tr-ca-chn-thng-tm-l&quot;&gt;Giá trị của chấn thương tâm lý&lt;/h2&gt;
+&lt;h2 id=&quot;giá-trị-của-chấn-thương-tâm-lý&quot;&gt;Giá trị của chấn thương tâm lý&lt;/h2&gt;
 
 &lt;p&gt;Phát triển bản thân thường được mô tả như một sự tiến bộ trải đầy hoa lệ, đi từ 1 kẻ ngu ngốc đến sự giác mộ, chưa đựng rất nhiều hoan lạc, bước đi tự hào trên thảm hoa, và đập tay với 2000 người tại một buổi hội thảo mà bạn phải trả rất nhiều tiền để tham dự.&lt;/p&gt;
 
@@ -1338,7 +1372,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Vết thương làm chúng ta lùi lại và đánh giá lại những động lực sâu thẩm nhất và các quyết định mà mình đã đưa ra.&lt;/strong&gt;  Nó cho phép chúng ta suy tư về việc liệu những chiến lược theo đuổi hạnh phúc của chúng ta có thực sự thành công hay không.&lt;/p&gt;
 
-&lt;h2 id=&quot;iu-g-lm-chng-ta-mc-kt&quot;&gt;Điều gì làm chúng ta mắc kẹt&lt;/h2&gt;
+&lt;h2 id=&quot;Điều-gì-làm-chúng-ta-mắc-kẹt&quot;&gt;Điều gì làm chúng ta mắc kẹt&lt;/h2&gt;
 
 &lt;p&gt;Có một thứ làm chúng ta mắt kẹt ở mỗi giai đoạn: cảm giác chưa bao giờ là đủ.&lt;/p&gt;
 
@@ -1472,13 +1506,13 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;De Botton và Armstrong từ đó đã phác thảo bảy chức năng tâm lý cốt lõi của nghệ thuật:&lt;/p&gt;
 
-&lt;h3 id=&quot;cng-c-tr-nh&quot;&gt;1. Củng cố trí nhớ&lt;/h3&gt;
+&lt;h3 id=&quot;1-củng-cố-trí-nhớ&quot;&gt;1. Củng cố trí nhớ&lt;/h3&gt;
 
 &lt;p&gt;Trí nhớ con người không hoàn hảo, nên dễ hiểu rằng sợ lãng quên là một trong những nguồn cơn gây phiền muộn nơi con người. Chúng ta dễ quên đi những chi tiết cụ thể về con người, nơi chốn, tòa nhà, công viên, mà ta e rằng khi kết hợp những chi tiết đó với nhau, ta có thể lãng quên một phần con người mình. Nhưng Amstrong và de Botton an ủi ta rằng, cũng giống như việc ta chỉ có thể ghi nhớ những gì quan trọng nhất, một người nghệ sĩ vĩ đại cũng là người biết lựa chọn đúng những gì nên truyền tải trong tác phẩm và cái gì nên bỏ bớt đi.&lt;/p&gt;
 
 &lt;p&gt;Do đó, nghệ thuật không chỉ là những gì nằm trong khung hình mà bản thân nó là một cái khung định hình trải nghiệm: “Nghệ thuật là một cách để bảo tồn những trải nghiệm, trong đó có rất nhiều trải nghiệm đẹp đẽ nhưng ngắn ngủi mà chúng ta cần gìn giữ”.&lt;/p&gt;
 
-&lt;h3 id=&quot;em-li-hy-vng&quot;&gt;2. Đem lại hy vọng&lt;/h3&gt;
+&lt;h3 id=&quot;2-Đem-lại-hy-vọng&quot;&gt;2. Đem lại hy vọng&lt;/h3&gt;
 
 &lt;p&gt;Mối quan hệ mâu thuẫn của chúng ta với cái đẹp thể hiện một nghịch lý đặc biệt: Những tác phẩm phổ biến thường có một vẻ đẹp ưa nhìn đại chúng, nhưng các nhà phê bình nghệ thuật hàn lâm lại xem chúng là các sản phẩm “suy đồi” của thị hiếu và trí tuệ. Những thứ trông ưa nhìn thường mang hàm ý chúng đang bị nhìn nhận đơn giản hóa quá mức, như thể là nếu muốn thế giới này sáng sủa hơn thì chỉ cần điểm xuyết thêm một chút hoa vào chẳng hạn. Sự ngây thơ và giản dị đó đánh lạc hướng ta khỏi nỗ lực thay đổi. Ngoài ra, giới hạn lâm luôn e ngại rằng những thứ ưa nhìn sẽ khiến ta “mất cảnh giác với những bất công xung quanh mình”.&lt;/p&gt;
 
@@ -1492,7 +1526,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;Từ đó, chúng ta quay trở lại câu hỏi vì sao cái đẹp lại có ý nghĩa với chúng ta:”Cuộc sống của chúng ta càng khó khăn, vẻ đẹp duyên dáng của một bông hoa lại càng có thể làm chúng ta động lòng. […] Chúng ta nên tận hưởng một bức ảnh đẹp lý tưởng, thay vì đánh giá nó là sự tô hồng thực tại hàng ngày. Đơn giản, ta luôn nhận thức được rằng chẳng bao giờ có gì chắc chắn sẽ xảy ra như ta mong đợi”.&lt;/p&gt;
 
-&lt;h3 id=&quot;nhn-din-ni-bun&quot;&gt;3. Nhận diện nỗi buồn&lt;/h3&gt;
+&lt;h3 id=&quot;3-nhận-diện-nỗi-buồn&quot;&gt;3. Nhận diện nỗi buồn&lt;/h3&gt;
 
 &lt;p&gt;Nghệ thuật không chỉ giúp ta lan tỏa cảm xúc tích cực, mà còn nhắc nhở chúng ta rằng “nỗi buồn là một phần thiết yếu cho một cuộc sống tốt đẹp”: Chúng ta có thể thấy rất nhiều thành tựu nghệ thuật được xây dựng trên sự “thăng hoa” nỗi buồn của người nghệ sĩ, và công chúng tiếp nhận được nỗi buồn ấy.&lt;/p&gt;
 
@@ -1506,7 +1540,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;Từ đây, tác giả lập luận, mở ra một trong những món quà vĩ đại nhất của nghệ thuật: “Nghệ thuật có thể đem lại một điểm nhìn lý tưởng để ta quan sát khổ đau của mình”.&lt;/p&gt;
 
-&lt;h3 id=&quot;gip-ti-cn-bng&quot;&gt;4. Giúp tái cân bằng&lt;/h3&gt;
+&lt;h3 id=&quot;4-giúp-tái-cân-bằng&quot;&gt;4. Giúp tái cân bằng&lt;/h3&gt;
 
 &lt;p&gt;Rất ít người trong chúng ta có thể hoàn toàn cân bằng. Lịch sử các ghi chép tâm lý, những mối quan hệ và thói quen làm việc của chúng ta cho thấy cảm xúc của chúng ta có thể nghiêng hẳn sang một hướng này hay hướng khác. Ví dụ, chúng ta có thể có xu hướng là quá tự mãn, hay quá bất an; quá tin tưởng hay quá đa nghi; quá nghiêm trọng hay quá dễ tính. Nghệ thuật có thể giúp chúng ta tiếp cận với phần nhân cách ta đang đánh mất kia, và từ đó khôi phục lại trạng thái cân bằng cho bản thể chúng ta.&lt;/p&gt;
 
@@ -1516,19 +1550,19 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;p&gt;Họ đã kết luận chức năng này của nghệ thuật bằng một câu đúc kết hay: “Nghệ thuật có thể giúp ta tiết kiệm thời gian – và còn cứu rỗi cả cuộc sống của ta – bằng lời nhắc nhở thầm kín nhưng đúng lúc về sự cân bằng và hoàn thiện mà ta không bao giờ nên tự nhận rằng mình đã hiểu rõ”.&lt;/p&gt;
 
-&lt;h3 id=&quot;gip-t-hiu-mnh&quot;&gt;5. Giúp tự hiểu mình&lt;/h3&gt;
+&lt;h3 id=&quot;5-giúp-tự-hiểu-mình&quot;&gt;5. Giúp tự hiểu mình&lt;/h3&gt;
 
 &lt;p&gt;Chúng ta không tự cảm nhận rõ chính mình. Ta có trực giác, những hoài nghi, những linh cảm, ý nghĩ mơ hồ và nhiều cảm xúc lẫn lộn kỳ quặc, tất cả những điều không thể định nghĩa một cách ngắn gọn và minh bạch. Chúng ta có nhiều tâm trạng, nhưng ta vẫn chưa từng thực sự hiểu rõ chúng. Và rồi, đôi khi, chúng ta gặp những tác phẩm nghệ thuật dường như chạm tới được điều gì đó ta đã cảm thấy nhưng chưa từng nhận biết được cụ thể. Alexander Pope đã nhận ra một chức năng chính của nghệ thuật thơ là đem đến một cách diễn đạt hữu hình những ý nghĩ mà ta chỉ mới nhận thức được một nửa. Nói cách khác, qua nghệ thuật thơ, phần bất chợt và mờ ảo trong suy nghĩ và trải nghiệm của ta được khơi đào lên, chỉnh sửa, để ta cảm thấy, cuối cùng ta cũng nhận biết rõ bản thân mình hơn.&lt;/p&gt;
 
 &lt;p&gt;Không những thế, Amstrong và de Botton còn cho rằng qua nghệ thuật, ta giao tiếp được với người khác một cách thầm kín và tinh tế về những gì làm nên con người ta và những gì chúng ta tin, theo cách mà đôi khi ngôn từ chưa thể nắm bắt được đủ đầy.&lt;/p&gt;
 
-&lt;h3 id=&quot;gip-trng-thnh&quot;&gt;6. Giúp trưởng thành&lt;/h3&gt;
+&lt;h3 id=&quot;6-giúp-trưởng-thành&quot;&gt;6. Giúp trưởng thành&lt;/h3&gt;
 
 &lt;p&gt;Bên cạnh việc đem lại nhận thức sâu rộng về bản thân, nghệ thuật cũng giúp ta mở rộng ranh giới về khái niệm ta là ai bằng cách giúp ta vượt qua sự sợ hãi với những thứ lạ lẫm và rộng lòng đón nhận những điều ta chưa biết.&lt;/p&gt;
 
 &lt;p&gt;De Botton và Armstrong đưa ra ba bước quan trọng giúp vượt qua sự phòng thủ của ta trước nghệ thuật: Thứ nhất, thừa nhận sự khác lạ mà chúng ta cảm thấy, và ta có thể cảm thông với bản thân khi có cảm xúc đó, tự nhủ rằng việc nó đến là hoàn toàn tự nhiên – thực ra rất nhiều ngành nghệ thuật ra đời từ những người có thế giới quan rất khác biệt, và thường mâu thuẫn với quan điểm của chính ta. Thứ hai, trở nên cởi mở, làm quen với sự lạ và từ đó sẽ cảm thấy thoải mái hơn với những tâm hồn đã sáng tạo ra môn nghệ thuật đó. Cuối cùng, hãy tìm ra những điểm chung của mình với người nghệ sĩ ấy, “dù điểm chung có nhỏ bé và mong manh đến đâu”, từ đó ta có thể liên hệ tác phẩm được thoát thai từ hoàn cảnh sống của họ với hoàn cảnh thực của bản thân mình.&lt;/p&gt;
 
-&lt;h3 id=&quot;nng-cao-kh-nng-thng-lm&quot;&gt;7. Nâng cao khả năng thưởng lãm&lt;/h3&gt;
+&lt;h3 id=&quot;7-nâng-cao-khả-năng-thưởng-lãm&quot;&gt;7. Nâng cao khả năng thưởng lãm&lt;/h3&gt;
 
 &lt;p&gt;Một trong những thiếu sót chính, và nguyên nhân khiến ta không hạnh phúc, là việc chúng ta luôn thấy thật khó để tâm tới những gì cố hữu quanh mình. Ta khổ sở vì ta đã đánh mất giá trị của những gì ta có, trong khi đó, ta lại thường khao khát, thường theo một cách vô nghĩa lý, những dạng hình hấp dẫn tưởng tượng ở đâu đó.&lt;/p&gt;
 
@@ -1570,7 +1604,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;section&quot;&gt;1&lt;/h1&gt;
+&lt;h1 id=&quot;1&quot;&gt;1&lt;/h1&gt;
 
 &lt;p&gt;Trong khi hầu hết các loài cầm thú đều sinh hoạt dục tính theo mùa, con người là một sinh vật có khả năng sinh hoạt dục tính bất cứ lúc nào. Để tránh tình trạng cạnh tranh và thù nghịch triền miên giữa người và người, xã hội nhất thiết phải đặt ra những giới hạn mang tính đạo đức đối với sinh hoạt dục tính. Tuy nhiên, nhìn lại lịch sử văn hoá của nhân loại, chúng ta có thể thấy rằng tất cả các nền đạo đức chỉ có giá trị tương đối, không mang tính toàn cầu, không ổn định, luôn luôn biến thiên, và thực chất chỉ là một tập hợp của những tiêu chuẩn chủ quan sinh ra từ những định chế ý thức mang tính tôn giáo/chính trị nhất định. Những định chế này xác lập biên giới giữa cái gọi là trong sạch và cái gọi là ô uế. Cái trong sạch đồng nghĩa với những gì tốt, đẹp và đúng. Người ta chỉ được phép hoạt động và phát biểu trong giới hạn của cái trong sạch. Cái ô uế là xấu, là sai, cần phải tránh. Từ bản chất, ý niệm về cái trong sạch và cái ô uế được các lực lượng tôn giáo/chính trị thống lĩnh đề ra chỉ với mục đích duy trì trật tự của một xã hội nhất định, trong một khung không/thời gian nhất định. Do đó, lịch sử đạo đức của nhân loại là một lịch sử đầy nghịch lý và mâu thuẫn.&lt;/p&gt;
 
@@ -1642,7 +1676,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;section-1&quot;&gt;2&lt;/h1&gt;
+&lt;h1 id=&quot;2&quot;&gt;2&lt;/h1&gt;
 
 &lt;p&gt;Ngoài những sự mâu thuẫn, nghịch lý và tính cách thiếu ổn định trong từng nền văn hoá; ngoài những dị biệt lạ lùng giữa các nền văn hoá; các tiêu chuẩn đạo đức về dục tính trong lịch sử nhân loại còn làm sinh ra những điều rất bất công.&lt;/p&gt;
 
@@ -1705,7 +1739,7 @@ Tre Việt (nhận xét) - 17:06 25/08/2016&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;section-2&quot;&gt;3&lt;/h1&gt;
+&lt;h1 id=&quot;3&quot;&gt;3&lt;/h1&gt;
 
 &lt;p&gt;Vì những ý niệm và tiêu chuẩn đạo đức là những gì đầy mâu thuẫn, nghịch lý, bất công, và thiếu ổn định, cho nên ở mỗi nơi và mỗi thời, con người lại dựa trên mỗi cơ sở khác nhau để xác định cái trong sạch và cái ô uế. Ở Hy Lạp thời cổ đại, vì giới thống lĩnh xã hội xem việc giao hợp là hành động tự nhiên của con người, thậm chí họ lập ra tục lệ tẩy uế sau khi giao hợp (như đã đề cập ở phần 1), nên các nhà sáng tác văn chương mặc sức sử dụng ngôn ngữ thông tục để mô tả các cảnh làm tình. Cả Sophocles, bậc thầy của bi kịch, và Aristophanes, thiên tài viết hài kịch, cũng tạo nên những cảnh tượng và dùng những loại từ ngữ mà các thời đại sau này cho là hết sức ô uế, tục tĩu. Ví dụ cụ thể là các vở bi kịch &lt;em&gt;Antigone&lt;/em&gt;, &lt;em&gt;Electra&lt;/em&gt;, và &lt;em&gt;Oedipus&lt;/em&gt; của Sophocles, và vở hài kịch &lt;em&gt;Lysistrata&lt;/em&gt; của Aristophanes.&lt;/p&gt;
 
@@ -1782,7 +1816,7 @@ trước khi chiếc mỏ lạnh lùng ấy buông tha cho nàng?
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;section-3&quot;&gt;4&lt;/h1&gt;
+&lt;h1 id=&quot;4&quot;&gt;4&lt;/h1&gt;
 
 &lt;p&gt;Như chúng ta đã thấy, trong hầu hết các nền văn hoá suốt lịch sử nhân loại, hầu hết phụ nữ đã bị đối xử như dụng cụ phục vụ dục tính cho nam giới. Cuộc tranh đấu cho nữ quyền trong suốt thế kỷ qua đã dần dần nâng giá trị và quyền hạn của người đàn bà lên gần ngang hàng với đàn ông trong mọi lĩnh vực. Trong văn chương, điều này cũng được thể hiện rất rõ ràng. Một trong những nét chính là đàn bà có quyền phát biểu khát vọng dục tính của mình. Thậm chí, có những nhà văn nữ đã xây dựng những tiểu thuyết trong đó đàn bà sử dụng đàn ông như công cụ phục vụ dục tính.&lt;/p&gt;
 
@@ -1828,7 +1862,7 @@ trước khi chiếc mỏ lạnh lùng ấy buông tha cho nàng?
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;section-4&quot;&gt;5&lt;/h1&gt;
+&lt;h1 id=&quot;5&quot;&gt;5&lt;/h1&gt;
 
 &lt;p&gt;Ngôn ngữ và hành động dục tính được sử dụng trong văn chương không chỉ nhằm thử thách các giá trị rất tương đối của các tiêu chuẩn đạo đức. Có những nhà văn còn dùng khả năng gây “shock” của chúng như những ẩn dụ để đào xới những vấn đề tiềm ẩn trong nội tâm con người.&lt;/p&gt;
 
@@ -1874,7 +1908,7 @@ trước khi chiếc mỏ lạnh lùng ấy buông tha cho nàng?
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;section-5&quot;&gt;6&lt;/h1&gt;
+&lt;h1 id=&quot;6&quot;&gt;6&lt;/h1&gt;
 
 &lt;p&gt;Khả năng gây “shock” của ngôn ngữ và hành động dục tính còn được sử dụng như những ẩn dụ nhức nhối nhằm đào xới những vấn nạn sâu sắc và quan trọng về sinh mệnh văn hoá của một dân tộc. Oe Kenzaburo (sinh năm 1935), nhà văn Nhật Bản đoạt giải Nobel năm 1994, có lẽ là nhà văn Đông phương dựng lên những tác phẩm dữ dội nhất với mục đích này.&lt;/p&gt;
 
@@ -2030,7 +2064,7 @@ xác chết hăng nồng mùi tinh khí… &lt;sup id=&quot;fnref:62&quot;&gt;&l
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;section-6&quot;&gt;7&lt;/h1&gt;
+&lt;h1 id=&quot;7&quot;&gt;7&lt;/h1&gt;
 
 &lt;p&gt;Có lẽ chúng ta hẳn đã thấy rằng trong tất cả những ví dụ văn chương hiện đại được bàn bạc trong bài viết này không có ví dụ nào thuần tuý mang tính cách khiêu dâm. Cảnh cưỡng dâm trong bài thơ “Leda và Con Thiên Nga” của Yeats, vì gắn với một thần thoại nổi tiếng và có ý nghĩa triết lý, nên đã tạo nên một khoảng cách mang tính thanh tẩy. Người đọc có cảm giác nhẹ nhàng như được gợi nhớ về một giấc mơ xưa huyền hoặc. Rất nhiều người chống đối cuốn &lt;em&gt;Lolita&lt;/em&gt; về mặt ý tưởng, nhưng không ai cho rằng đó là một cuốn sách khiêu dâm. Nabokov thành công nhờ kỹ thuật sử dụng ngôn ngữ. Suốt cuốn &lt;em&gt;Lolita&lt;/em&gt;, Nabokov đã không dùng lối trực tả để trình bày các sự vật và hành động dục tính, mà dùng thủ pháp thi hoá. Thủ pháp này tạo nên một chiếc màn mỏng giữa cảm thức của độc giả và các hiện tượng tình dục. Điều này tương tự như khi chứng kiến một cảnh làm tình sau tấm màn mỏng và bóng tối chập chờn, người xem đỡ ngượng hơn. Thực ra, trí tưởng tượng của người xem có thể còn phong phú hơn cả những gì ẩn hiện sau tấm màn kia, nhưng tấm màn đã thi hoá những cảnh tượng lẽ ra đã làm người đọc đỏ mặt. Ngược lại, những hình ảnh trong &lt;em&gt;Monsieur Vénus&lt;/em&gt; và &lt;em&gt;La Jongleuse&lt;/em&gt; thực ra là những hình ảnh rất táo bạo (mà tôi đã không trích lại). Nhưng cách viết và thái độ của Rachilde không khiêu dâm nơi người đọc, mà thách thức người đọc, làm họ sửng sốt và suy nghĩ. Truyện ngắn “No don’t, no don’t” của Lily Brett sử dụng rất thẳng thừng những từ ngữ chỉ bộ phận và hành động dục tính. Mới đọc đoạn nhập đề, độc giả bị “shock” ngay, nhưng ngay sau đó, cách viết khô khan và cô đọng của tác giả khiến cho những từ ngữ dục tính trở nên lạnh lùng như những từ ngữ trong sách y học. Sự lạnh lùng của ngôn ngữ buộc độc giả phải đọc cẩn thận và cảm nhận chính xác tư tưởng của tác giả. Oe Kenzaburo lại có thái độ khác, ông cố tình đẩy độc giả vào một tâm trạng ghê tởm và đau đớn - một thứ cảm giác của người bệnh ung độc đang chịu đựng những nhát dao cắt mổ và nhìn thấy những khối độc nhô ra lồ lộ. Độc giả có thể tức giận, nhưng không chỉ tức giận và tranh cãi với tác giả vì người ấy đang cắt vào da thịt mình từng nhát dữ dội, mà còn tức giận và tranh cãi với chính cơn bệnh lì lợm của mình. Sau cơn giận dữ và đau đớn ấy, độc giả sẽ còn mang trong mình một nỗi sợ hãi và dằn vặt khó có thể nguôi.&lt;/p&gt;
 

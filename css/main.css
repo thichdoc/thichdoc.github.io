@@ -51,7 +51,7 @@ article ul {
   margin-left: 0; }
 article ul > li:before {
   position: absolute;
-  content: "Γû¬";
+  content: "Ôû¬";
   color: #c72323;
   left: -1.15em; }
 article pre, article code {
@@ -168,6 +168,12 @@ table {
 .chuthich {
   text-align: center;
   font-style: italic; }
+
+.vid {
+  margin: 0 auto;
+  display: block;
+  max-width: 100%;
+  padding-bottom: 15px; }
 
 .super-search {
   position: fixed;
