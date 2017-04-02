@@ -296,6 +296,12 @@ table {
   top: 17px;
   right: 20px; }
 
+@media only screen and (max-width: 768px) {
+  .btn-homepage {
+    visibility: hidden; }
+
+  .btn-search {
+    visibility: hidden; } }
 /**
  * Syntax highlighting styles
  */
