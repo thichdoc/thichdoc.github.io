@@ -69,7 +69,9 @@ blockquote {
   border-left: 2pt solid #c72323;
   padding-left: 0.9em;
   margin-left: -1em;
-  font-style: oblique; }
+  font-style: oblique;
+  font-style: italic;
+  font-weight: 500; }
   blockquote > :last-child {
     margin-bottom: 0; }
   blockquote code {
